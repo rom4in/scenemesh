@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		1A2C68032565263600B5DE22 /* scenemeshApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A2C68022565263600B5DE22 /* scenemeshApp.swift */; };
-		1A2C68052565263600B5DE22 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A2C68042565263600B5DE22 /* ContentView.swift */; };
 		1A2C68072565263600B5DE22 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A2C68062565263600B5DE22 /* Assets.xcassets */; };
 		1A2C680A2565263600B5DE22 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A2C68092565263600B5DE22 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +15,6 @@
 /* Begin PBXFileReference section */
 		1A2C67FF2565263600B5DE22 /* scenemesh.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = scenemesh.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A2C68022565263600B5DE22 /* scenemeshApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = scenemeshApp.swift; sourceTree = "<group>"; };
-		1A2C68042565263600B5DE22 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1A2C68062565263600B5DE22 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1A2C68092565263600B5DE22 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1A2C680B2565263600B5DE22 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -53,7 +51,6 @@
 			isa = PBXGroup;
 			children = (
 				1A2C68022565263600B5DE22 /* scenemeshApp.swift */,
-				1A2C68042565263600B5DE22 /* ContentView.swift */,
 				1A2C68062565263600B5DE22 /* Assets.xcassets */,
 				1A2C680B2565263600B5DE22 /* Info.plist */,
 				1A2C68082565263600B5DE22 /* Preview Content */,
@@ -138,7 +135,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1A2C68052565263600B5DE22 /* ContentView.swift in Sources */,
 				1A2C68032565263600B5DE22 /* scenemeshApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
